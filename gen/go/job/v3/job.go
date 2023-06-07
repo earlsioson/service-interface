@@ -2,7 +2,7 @@ package job
 
 import "fmt"
 
-var Version = "2.0.0"
+var Version = "3.0.6"
 
 type Job struct {
 	Name string
