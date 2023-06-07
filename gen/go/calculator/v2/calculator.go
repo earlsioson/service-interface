@@ -1,6 +1,6 @@
 package calculator
 
-var Version = "2.0.0"
+var Version = "2.0.1"
 
 type Calculator struct {
 	Name string
